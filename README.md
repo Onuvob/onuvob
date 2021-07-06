@@ -13,8 +13,6 @@
 
 - 📝 I regularly write articles on [https://blog.sonjoy.info/](https://blog.sonjoy.info/)
 
-- 💬 Ask me about **vue, laravel, spring boot, django, flutter and aws.**
-
 - 📫 How to reach me **onuvobtripura@gmail.com**
 
 - 📄 Know about my experiences [https://sonjoy.info/#experiences-section](https://sonjoy.info/#experiences-section)
