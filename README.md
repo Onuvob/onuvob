@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonjoy Tripura (Onuvob)</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
-[![wakatime](https://wakatime.com/badge/user/72457dcd-bd63-4650-9ac6-108471ddbe41.svg)](https://wakatime.com/@3889ded6-e0a4-46bf-b5f8-1206c01b98fd)
+[![wakatime](https://wakatime.com/badge/user/3889ded6-e0a4-46bf-b5f8-1206c01b98fd.svg)](https://wakatime.com/@3889ded6-e0a4-46bf-b5f8-1206c01b98fd)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onuvob&label=Profile%20views&color=0e75b6&style=flat" alt="onuvob" /> </p>
 
