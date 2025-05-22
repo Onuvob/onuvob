@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pocket Budget App</title>
+    <style>
+        body {
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        header {
+            background-color: #009688;
+            color: white;
+            padding: 2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+            text-align: center;
+        }
+
+        .header-content {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .header-content img {
+            width: 60px;
+            height: 60px;
+            /* border-radius: 50%; */
+            object-fit: cover;
+        }
+
+        .header-content h1 {
+            font-size: 2.5rem;
+            margin: 0;
+        }
+
+        header p {
+            width: 100%;
+            font-size: 1.2rem;
+            margin-top: 0.5rem;
+        }
+
+        section {
+            padding: 2rem;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .feature-card {
+            background-color: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s ease;
+        }
+
+        .feature-card:hover {
+            background-color: #009688 !important;
+            color: white;
+        }
+
+        .screenshots {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            justify-content: center;
+        }
+
+        .screenshots img {
+            max-width: 220px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .download-btn {
+            display: inline-block;
+            margin-top: 2rem;
+            padding: 0.75rem 1.5rem;
+            background-color: #009688;
+            color: white;
+            font-size: 1rem;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+        }
+
+        .download-btn:hover {
+            background-color: #00796b;
+        }
+
+        footer {
+            text-align: center;
+            background-color: #009688;
+            color: white;
+            padding: 1rem;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="header-content">
+            <img src="images/project/pocket/logo.png" alt="Pocket Budget Logo" />
+            <h1>Pocket Budget</h1>
+        </div>
+        <p>Your personal finance companion, offline and multilingual</p>
+        <a class="download-btn" href="https://play.google.com/store/apps/details?id=com.example.pocketbudget"
+            target="_blank">Download on Google Play</a>
+    </header>
+
+    <section>
+        <h2>About the App</h2>
+        <p>
+            Pocket Budget is a simple and powerful offline budgeting app that helps
+            you take control of your personal finances. With support for multiple
+            languages and a user-friendly interface, it's designed to work
+            completely offline so you can track your income, expenses, and savings
+            anytime, anywhere.
+        </p>
+    </section>
+
+    <section>
+        <h2>Key Features</h2>
+        <div class="features">
+            <div class="feature-card">
+                <h3>🧮 Expense & Income Tracking</h3>
+                <p>Record and categorize your daily expenses and income with ease.</p>
+            </div>
+            <div class="feature-card">
+                <h3>📊 Visual Insights</h3>
+                <p>Pie charts and summaries help visualize where your money goes.</p>
+            </div>
+            <div class="feature-card">
+                <h3>🌐 Multilingual Support</h3>
+                <p>Supports English, Bangla, Hindi, Spanish, and Arabic.</p>
+            </div>
+            <div class="feature-card">
+                <h3>📴 Fully Offline</h3>
+                <p>No internet? No problem. Pocket Budget works 100% offline.</p>
+            </div>
+            <div class="feature-card">
+                <h3>🔐 Privacy Focused</h3>
+                <p>Your financial data stays on your device—secure and private.</p>
+            </div>
+            <div class="feature-card">
+                <h3>📅 Monthly Reports</h3>
+                <p>
+                    Get an overview of your financial health with monthly summaries.
+                </p>
+            </div>
+            <div class="feature-card">
+                <h3>🛑 No Spend Day</h3>
+                <p>Challenge yourself to save more with tracked No Spend Days!</p>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>App Screenshots</h2>
+        <div class="screenshots">
+            <img src="images/project/pocket/dashboarddark.jpeg" alt="Dark Dashboard" />
+            <img src="images/project/pocket/dashboardlight.jpeg" alt="Light Dashboard" />
+            <img src="images/project/pocket/accounts.jpeg" alt="Accounts" />
+            <img src="images/project/pocket/transactions.jpeg" alt="Income and Expenses" />
+            <img src="images/project/pocket/expensebudget.jpeg" alt="Expense Budget" />
+        </div>
+    </section>
+
+    <footer>
+        &copy; <span id="year"></span> Pocket Budget. All rights reserved.
+    </footer>
+
+    <script>
+        document.getElementById("year").textContent = new Date().getFullYear();
+    </script>
+</body>
+
+</html>
