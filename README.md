@@ -51,8 +51,8 @@ Passionate about building scalable backend systems, microservices, cloud-native 
 <a href="https://stackoverflow.com/users/8896556">
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" />
 </a>
-<a href="https://fb.com/engr.sonjoy.tripura">
-  <img src="https://skillicons.dev/icons?i=facebook" height="50" />
+<a href="https://www.linkedin.com/in/sonjoytripura/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 <a href="https://instagram.com/0nuvob">
   <img src="https://skillicons.dev/icons?i=instagram" height="50" />
