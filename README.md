@@ -1,15 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Sonjoy Tripura (Onuvob)</h1>
-<h3 align="center">A passionate fullstack developer from Bangladesh</h3>
-
-[![wakatime](https://wakatime.com/badge/user/3889ded6-e0a4-46bf-b5f8-1206c01b98fd.svg)](https://wakatime.com/@3889ded6-e0a4-46bf-b5f8-1206c01b98fd)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onuvob&label=Profile%20views&color=0e75b6&style=flat" alt="onuvob" /> </p>
-
-
-<div align="center"> -->
-
 # Hey there 👋 I'm Sonjoy Tripura (Onuvob)
-[![wakatime](https://wakatime.com/badge/user/3889ded6-e0a4-46bf-b5f8-1206c01b98fd.svg)](https://wakatime.com/@3889ded6-e0a4-46bf-b5f8-1206c01b98fd)
 
 ### Full Stack Developer from Bangladesh 🇧🇩  
 Passionate about building scalable backend systems, microservices, cloud-native applications & modern web experiences.
@@ -136,16 +125,6 @@ Passionate about building scalable backend systems, microservices, cloud-native 
 <div align="center">
 
 [![Onuvob's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=onuvob&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/onuvob/onuvob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
