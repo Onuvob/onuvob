@@ -66,6 +66,10 @@ Passionate about building scalable backend systems, microservices, cloud-native 
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,js,ts" />
 
+## 🌐 Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter" />
+
 ## 🛢️ Database
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
@@ -86,15 +90,25 @@ Passionate about building scalable backend systems, microservices, cloud-native 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=onuvob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=onuvob&show_icons=true&theme=radical&hide_border=true&border_radius=20&count_private=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=onuvob&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=onuvob&theme=radical&hide_border=true&border_radius=20" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuvob&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuvob&layout=compact&theme=radical&hide_border=true&border_radius=20&langs_count=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=onuvob&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
