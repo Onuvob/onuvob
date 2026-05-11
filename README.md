@@ -9,6 +9,7 @@
 <div align="center"> -->
 
 # Hey there 👋 I'm Sonjoy Tripura (Onuvob)
+[![wakatime](https://wakatime.com/badge/user/3889ded6-e0a4-46bf-b5f8-1206c01b98fd.svg)](https://wakatime.com/@3889ded6-e0a4-46bf-b5f8-1206c01b98fd)
 
 ### Full Stack Developer from Bangladesh 🇧🇩  
 Passionate about building scalable backend systems, microservices, cloud-native applications & modern web experiences.
@@ -50,7 +51,7 @@ Passionate about building scalable backend systems, microservices, cloud-native 
 <a href="https://stackoverflow.com/users/8896556">
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" />
 </a>
-<a href="https://fb.com/s0nj0y">
+<a href="https://fb.com/engr.sonjoy.tripura">
   <img src="https://skillicons.dev/icons?i=facebook" height="50" />
 </a>
 <a href="https://instagram.com/0nuvob">
@@ -82,7 +83,7 @@ Passionate about building scalable backend systems, microservices, cloud-native 
 
 ## ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,linux,aws" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,linux,aws,azure,jenkins" />
 
 ## 🛠️ Tools
 
