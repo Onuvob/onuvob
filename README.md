@@ -90,17 +90,9 @@ Passionate about building scalable backend systems, microservices, cloud-native 
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=onuvob&show_icons=true&theme=radical&hide_border=true&border_radius=20&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=onuvob&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=onuvob&theme=radical&hide_border=true&border_radius=20" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuvob&layout=compact&theme=radical&hide_border=true&border_radius=20&langs_count=8" />
+<img width="49%" src="https://streak-stats.demolab.com?user=onuvob&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -108,7 +100,15 @@ Passionate about building scalable backend systems, microservices, cloud-native 
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=onuvob&theme=react-dark&hide_border=true&area=true" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuvob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=onuvob&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 
 </div>
 
