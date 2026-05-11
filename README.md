@@ -15,8 +15,6 @@ Passionate about building scalable backend systems, microservices, cloud-native 
 
 <br/>
 
-[![wakatime](https://wakatime.com/badge/user/3889ded6-e0a4-46bf-b5f8-1206c01b98fd.svg)](https://wakatime.com/@3889ded6-e0a4-46bf-b5f8-1206c01b98fd)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onuvob&label=Profile%20views&color=0e75b6&style=flat" alt="onuvob" /> </p>
 [![Portfolio](https://img.shields.io/badge/Portfolio-sonjoy.info-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sonjoy.info/)
 [![Blog](https://img.shields.io/badge/Blog-blog.sonjoy.info-orange?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.sonjoy.info/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sonjoy%20Tripura-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
